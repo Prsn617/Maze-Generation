@@ -4,8 +4,7 @@
 
 A simple maze generating algorithm and it's visualization using js. On each refresh, it creates a new perfect maze (a maze where any two cells can be joined by a unique path)
 
-![abc](https://github.com/Prsn617/Maze-Generation/tree/main/images/maze.png)
-![abc](https://github.com/Prsn617/Maze-Generation/tree/main/images/maze2.png)
+<p align="center"><img width="300" height=300 src="images/maze.png" /> <img width="300" height=300 src="images/maze2.png" /></p>
 
 ### Inspiration:
 
